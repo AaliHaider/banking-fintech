@@ -1,6 +1,6 @@
 # Fintech Banking Application
 
-This is a NestJS backend application for a fintech banking mobile application.
+This is a NestJS backend application for a fintech banking mobile application by Ali Haider
 
 ## Setup
 
@@ -13,6 +13,7 @@ This is a NestJS backend application for a fintech banking mobile application.
 - `POST /users`: Create a new user
 - `GET /users/:id`: Get a user by ID
 - `GET /users`: Get all users
+- `DELETE /users/:id`: Delete a user by ID
 
 ## Running Tests
 
